@@ -1,2 +1,1 @@
-# JustForFun
-fun test
+# JustForFun fun test
